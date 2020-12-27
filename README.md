@@ -1,1 +1,1 @@
-# SayanPal_CalculatorTask
+# SayanPal_Calculator
